@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <element type="text" group="ZooModsPlus" orderable="true">
-    <name>League Position</name>
-    <author>Ray Lawlor - Webcraftni.com</author>
+    <name>LeagueTable</name>
+    <author>Ray Lawlor - zoomodsplus.com</author>
     <creationDate>May 2014</creationDate>
-    <copyright>Copyright (C) Ray lawlor - Webcraftni.com</copyright>
-    <authorEmail>ray@webcraftni.com</authorEmail>
-    <authorUrl>http://www.webcraftni.com</authorUrl>
+    <copyright>Copyright (C) Ray lawlor - zoomodsplus.com</copyright>
+    <authorEmail>ray@zoomodsplus.com</authorEmail>
+    <authorUrl>http://www.zoomodsplus.com</authorUrl>
     <version>1.0.0</version>
     <description>League Position</description>
     <params>
