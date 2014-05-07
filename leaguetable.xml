@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<element type="text" group="Form" orderable="true">
+    <name>League Position</name>
+    <author>Ray Lawlor - Webcraftni.com</author>
+    <creationDate>May 2014</creationDate>
+    <copyright>Copyright (C) Ray lawlor - WQebcraftni.com</copyright>
+    <authorEmail>ray@webcraftni.com</authorEmail>
+    <authorUrl>http://www.webcraftni.com</authorUrl>
+    <version>1.0.0</version>
+    <description>League Position</description>
+    <params>
+    </params>
+    <params group="render">
+    </params>
+</element>

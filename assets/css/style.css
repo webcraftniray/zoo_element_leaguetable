@@ -1,0 +1,9 @@
+/**
+ * @package   element_leaguetable
+ * @author    Ray Lawlor - zoomodsplus.com
+ * @copyright Copyright (C) Ray Lawlor - zoomodsplus.com
+ * @license   http://www.gnu.org/licenses/gpl.html GNU/GPL
+ */
+// no direct access
+
+.creation-form input.leaguepos-element { width: 38px !important;  }
