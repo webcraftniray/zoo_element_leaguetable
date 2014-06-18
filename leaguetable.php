@@ -109,5 +109,33 @@ class Elementleaguetable extends ElementRepeatable implements iRepeatSubmittable
             );
         }
     }
+    
+     /*
+      Function: _validateSubmission
+      Validates the submitted element
+
+      Parameters:
+      $value  - AppData value
+      $params - AppData submission parameters
+
+      Returns:
+      Array - cleaned value
+     */
+    public function _validateSubmission($value, $params)
+    {
+        $values = $value;
+
+        $team = $values->get('team');
+        $played = $values->get('played');
+        $win = $values->get('win');
+        $draw = $values->get('draw');
+        $loss = $values->get('loss');
+        $for = $values->get('for');
+        $against = $values->get('against');
+        $gd = $values->get('gd');
+        $points = $values->get('points');
+
+        return compact('team', 'played', 'win', 'draw', 'loss', 'for', 'against', 'gd', 'points');
+    }
 
 }
